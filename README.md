@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Aditya Sadaphule
 - 👀 I’m interested in Java Development Roles.
 - 🌱 I’m currently learning Spring Boot.
-- <a href="https://leetcode.com/AdityaSada/">![<LeetCode>](https://img.shields.io/badge/LeetCode-Check%20Out%20My%20LeetCode%20Profile-yellow) </a>
+- <a href="https://leetcode.com/AdityaSada/">![<LeetCode>](https://img.shields.io/badge/LeetCode-white?style=for-the-badge&logo=LeetCode&logoColor=dark-yellow) </a>
 
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=LeetCode&logoColor=white)]
 
 
 <!---
