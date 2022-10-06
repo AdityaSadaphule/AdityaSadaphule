@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Spring Boot.
 - <a href="https://leetcode.com/AdityaSada/">![<LeetCode>](https://img.shields.io/badge/LeetCode-white?style=for-the-badge&logo=LeetCode&logoColor=dark-yellow) </a>
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=LeetCode&logoColor=white)]
 
 
 <!---
